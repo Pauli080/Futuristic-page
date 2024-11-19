@@ -59,6 +59,12 @@ header {
     
 }
 
+.futuristic--2 p {
+    border-bottom: 2px solid black;
+    width: 100%;
+   
+}
+
 .metal {
     width: 100%;
     margin: 2rem;
@@ -230,6 +236,7 @@ span {
     display: flex;
     flex-direction: column;
     width: 50%;
+   
     
 }
 
@@ -247,6 +254,12 @@ span {
 .futuristic--2 {
     
     width: 50%;
+   
+}
+
+.futuristic--2 p {
+    border-bottom: 2px solid black;
+    width: 100%;
    
 }
 
