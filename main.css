@@ -1,0 +1,344 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&display=swap');
+
+
+
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+header {
+    display: none;
+}
+
+.futuristic {
+    width: 100%;
+    
+}
+
+.main-header {
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.about {
+    display: flex;
+    
+}
+
+.about p {
+    display: flex;
+    flex-direction: row;
+   
+    margin: 1rem;
+    width: 8rem;
+}
+
+.image-tables {
+    width: 100%;
+}
+
+.Minimalist {
+    display: flex;
+    text-align: right;
+   font-size: 3rem;
+   position: absolute;
+   bottom: 60%;
+   left: 30%;
+   width: 13rem;
+   color: green;
+}
+
+.futuristic-2 {
+    display: none;
+    width: 25%;
+    
+}
+
+.metal {
+    width: 100%;
+    margin: 2rem;
+}
+
+.first-image {
+    display: flex;
+}
+
+
+.natural-wood {
+    font-size: 3rem;
+   
+    padding: 1rem;
+    
+}
+
+.Chair--1 {
+    width: 100%;
+}
+
+.Chair--2 {
+    width: 100%;
+}
+
+.Chair-1 {
+    display: none;
+}
+
+.Chair {
+    width: 50%;
+    
+}
+
+.futuristic-3 {
+    width: 100%;
+   
+    display: flex;
+}
+
+.futuristic-4 {
+    width: 100%;
+    
+    display: flex;
+}
+
+.long-chair {
+    width: 33%;
+}
+
+.wood-chair-black {
+    width: 33%;
+}
+
+.light {
+    width: 33%;  
+    background: green;
+}
+
+.wood-chair {
+    width: 49%;
+}
+
+.make {
+    font-size: 2rem;
+    position: absolute;
+    top: 90rem;
+    left: 37%;
+        
+}
+
+.environtment-2 {
+    font-size: 2rem;
+    position: absolute;
+    top: 92rem;
+    left: 39%;
+}
+
+span {
+    color: brown;
+    position: absolute;
+    top: 1.5rem;
+    left: 21%;
+}
+
+.environtment {
+    font-size: 2rem;
+    position: absolute;
+    top: 95rem;
+    left: 49%;
+}
+
+
+
+@media (min-width: 40rem) {
+    header {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    
+    
+    
+    
+    .about {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .footer-about p {
+       display: flex;
+       flex-direction: row;
+       width: 8rem;
+    }
+
+    .about p {
+        display: flex;
+        flex-direction: row;
+        border: 1px solid;
+        margin: 1rem;
+        width: 8rem;
+    }
+    
+    
+    .futuristic_top {
+        border: 2px solid black;
+    }
+    
+    .futuristic {
+        width: 100%;
+        
+        display: flex;
+    }
+    
+    .image-tables {
+        width: 50%;
+    }
+
+    .our-filosofy {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        width: 30rem;
+        font-size: 1.3rem;
+        /* margin: 10px; */
+        
+   }
+
+   .our-filosofy h4 {
+    font-size: 2rem;
+   }
+
+
+   .we-use-guality {
+    display: flex;
+    align-items: center;
+    
+   }
+
+   .we-use-guality h3 {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    font-size: 2rem;
+    
+   }
+
+   .futuristic-2 {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    
+}
+
+.Minimalist {
+    display: flex;
+   text-align: right;
+   font-size: 4rem;
+   position: absolute;
+   bottom: 40%;
+   left: 30%;
+   width: 13rem;
+   
+}
+
+.futuristic--2 {
+    
+    width: 50%;
+   
+}
+
+.eco-Leather {
+    width: 11rem;
+    height: 11rem;
+    margin: 1rem;
+    margin-top: 4rem;
+    margin-right: 4rem;
+}
+
+.playwood {
+    width: 13rem;
+    margin: 0rem 4rem 4rem 4rem;
+}
+
+.second-futuristic {
+    display: flex;
+}
+
+.category {
+    display: flex;
+    
+    
+}
+
+.category p {
+   display: flex;
+   align-items: center;
+   margin-right: 2rem;
+    
+}
+
+.category h3 {
+    display: flex;
+    font-size: 3rem;
+    
+}
+
+.Chair {
+    width: 25%;
+    
+}
+
+.Chair--1 {
+    width: 90%;
+    margin: 1rem;
+}
+
+.Chair-1 {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+    width: 25%;
+}
+
+.make {
+    font-size: 3rem;
+    position: absolute;
+    top: 131rem;
+    left: 37%;
+        
+}
+
+.environtment-2 {
+    font-size: 3rem;
+    position: absolute;
+    top: 134rem;
+    left: 39%;
+}
+
+span {
+    color: brown;
+    position: absolute;
+    top: 3rem;
+    left: 21%;
+}
+
+.environtment {
+    font-size: 3rem;
+    position: absolute;
+    top: 140rem;
+    left: 49%;
+}
+
+.wood-chair {
+    margin: 2rem;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+}
