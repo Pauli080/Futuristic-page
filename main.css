@@ -248,19 +248,16 @@ span {
    bottom: 40%;
    left: 30%;
    width: 13rem;
-   
 }
 
 .futuristic--2 {
-    
     width: 50%;
-   
+    
 }
 
 .futuristic--2 p {
     border-bottom: 2px solid black;
     width: 100%;
-   
 }
 
 .eco-Leather {
@@ -282,26 +279,21 @@ span {
 
 .category {
     display: flex;
-    
-    
 }
 
 .category p {
    display: flex;
    align-items: center;
    margin-right: 2rem;
-    
 }
 
 .category h3 {
     display: flex;
     font-size: 3rem;
-    
 }
 
 .Chair {
     width: 25%;
-    
 }
 
 .Chair--1 {
@@ -320,8 +312,7 @@ span {
     font-size: 3rem;
     position: absolute;
     top: 131rem;
-    left: 37%;
-        
+    left: 37%;      
 }
 
 .environtment-2 {
